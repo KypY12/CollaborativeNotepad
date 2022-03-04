@@ -1,0 +1,18 @@
+{
+    "fisier.in": {
+        "admins": [
+            "Radu32"
+        ],
+        "permitted": [
+            "Denis"
+        ]
+    },
+    "fisier.txt": {
+        "admins": [
+            "Utilizator12"
+        ],
+        "permitted": [
+            "Andrei12"
+        ]
+    }
+}
